@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParamTewatia11
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning FrontEnd Web Dev
+- 👀 I’m interested in Web Technologies & DSA
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me - instagram - @gta_param, gmail - ptewatia638@gmail.com
 
 <!---
